@@ -1,0 +1,19 @@
+{
+  "name": "korolev/sitemap",
+  "description": "sitemap class",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "korol",
+      "email": "koroliev_kostia@mail.ru"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Korolev\\Sitemap\\": "src/"
+    }
+  }
+}
